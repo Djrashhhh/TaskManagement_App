@@ -1,5 +1,5 @@
 This is a full-stack Task and Inventory Management System built with Spring Boot and a JavaScript-based frontend. 
-It allows users to securely manage tasks, track inventory levels, and navigate through a responsive user interface.
+It allows users to securely manage tasks, track inventory levels (issue & updates device status), and navigate through a responsive user interface.
 
 Tech Stack:
 - Backend: Java + Spring Boot. IntelliJ IDEA as the primary IDE. PostgreSQL (via pgAdmin4) as the relational database

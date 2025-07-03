@@ -29,3 +29,10 @@ Developer Tools:
 -Insomnia API Client for testing and debugging backend endpoints
 -pgAdmin4 for database administration and schema design
 
+How to run locally
+Backend:   
+   - Open TaskManagement_App/backend project folder path
+   - Run the spring boot with this command: ./mvnw clean spring-boot:run -Dmaven.test.skip=true
+Frontend:
+   - Open TaskManagement_App/frontend project folder path
+   - Run the react App using these two command npm install & npm run

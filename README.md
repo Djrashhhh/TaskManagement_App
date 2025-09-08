@@ -6,7 +6,7 @@ It allows users to securely manage tasks, track inventory levels (issue & update
 ---
 
 ## 🚀 Live Demo
-👉 [View Live Demo](#) *(coming soon)*  
+👉 [View Live Demo](https://www.loom.com/share/3952ef89da344bfb9cce6d1057fa51d3?sid=a8dd3184-c175-4609-9883-308f8fae53b7)
 
 ---
 
